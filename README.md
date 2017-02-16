@@ -3,7 +3,7 @@
 
 並使用 SQLite 儲存 DB 以及 EXCEL
 
-* [Youtube Demo]()   
+* [Youtube Demo](https://youtu.be/4Mi7gnVnxqw)   
 
 
 ## 特色
