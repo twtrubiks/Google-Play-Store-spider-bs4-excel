@@ -1,4 +1,4 @@
-# Scrapy-Google-Play-Store-bs4-excel
+# Google-Play-Store-spider-bs4-excel
 抓取 [Google Play Store](https://play.google.com/store/apps/top) 資料 use [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) on Python 📝  
 
 並使用 SQLite 儲存 DB 以及 EXCEL
