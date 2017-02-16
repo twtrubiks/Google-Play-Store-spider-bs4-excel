@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ## 使用方法 以及 執行畫面
 
-抓取 [Google Play Store](https://play.google.com/store/apps/top) 資料 (熱門排行榜 最新發佈) 前100筆資料。
+抓取 [Google Play Store](https://play.google.com/store/apps/top) 資料 (熱門排行榜) 前100筆資料。
 
 ``` 
 python app.py
