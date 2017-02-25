@@ -70,6 +70,12 @@ python SQL_Database_To_Excel.py
 ![alt tag](http://i.imgur.com/gxt7YTl.jpg)
 
 
+update
+
+```
+python app_category.py
+```
+抓取 [Google Play Store topselling_new_free ](https://play.google.com/store/apps/category/BOOKS_AND_REFERENCE/collection/topselling_new_free) 前 120 資料
 
 ## 執行環境
 * Python 3.4.3
