@@ -70,12 +70,14 @@ python SQL_Database_To_Excel.py
 ![alt tag](http://i.imgur.com/gxt7YTl.jpg)
 
 
-update
+update 2017/2/27
 
 ```
 python app_category.py
 ```
-抓取 [Google Play Store topselling_new_free ](https://play.google.com/store/apps/category/BOOKS_AND_REFERENCE/collection/topselling_new_free) 前 120 資料
+抓取 [Google Play Store topselling_new_free ](https://play.google.com/store/apps/category/BOOKS_AND_REFERENCE/collection/topselling_new_free) 前 600 資料，
+
+注意，一次 post 最多只能抓 120 筆資料，超過 120 筆資料就會出問題，目前猜測是api設計的規定 ?!  ( 不確定 )
 
 ## 執行環境
 * Python 3.4.3
